@@ -651,7 +651,7 @@ img{
 } */
 /*==================== SERVICES ====================*/
 .services__container{
-    gap: 1.5rem;
+    gap: 2rem;
     grid-template-columns: repeat(2, 1fr);
 }
 
@@ -1163,7 +1163,7 @@ img{
     }
 
     .services__container{
-        grid-template-columns: repeat(3, 218px);
+        grid-template-columns: repeat(2, 218px);
         justify-content: center;
     }
     .services__icon{
@@ -1234,7 +1234,7 @@ img{
     }
 
     .services__container{
-        grid-template-columns: repeat(3, 238px);
+        grid-template-columns: repeat(2, 238px);
     }
 
     .portfolio__content{
