@@ -6,7 +6,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web development and as a Designer
+- 🔭 I’m currently working on ... Web development and on design aspects
 - 🌱 I’m currently learning ... UI/UX as a whole
 - 👯 I’m looking to collaborate on ... Modern UI and UX aspects
 - 🤔 I’m looking for help with ... Developing my designs and bringing it to life
