@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Sheikh Ziad Ahmed 
-## Designer | Developer | UI/UX | Graphic designer
+## Developer | UI/UX | Graphic designer
 <!--
 **sheikhziad/sheikhziad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
