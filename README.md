@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Sheikh Ziad Ahmed 
-## Developer | UI/UX | Web/App Design & Development | FlutterFlow | Freelancer
+## Developer | Web/App Design & Development | Figma | FlutterFlow | Freelancer
 <!--
 **sheikhziad/sheikhziad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
