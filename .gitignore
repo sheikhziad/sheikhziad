@@ -9,3 +9,6 @@ next-env.d.ts
 # Resume PDF served from an external host (Drive/Notion) so personal
 # contact info never lands in the public repo or git history.
 public/resume.pdf
+
+# Local-only teaching notes — kept off the public repo
+LEARN.md
