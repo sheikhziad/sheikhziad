@@ -13,7 +13,11 @@ const links = [
   { label: 'Email', href: 'mailto:sheikhziadwork@gmail.com', value: 'sheikhziadwork@gmail.com' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/sheikh-ziad-ahmed-b3391319a/', value: 'sheikh-ziad-ahmed' },
   { label: 'GitHub', href: 'https://github.com/sheikhziad', value: 'sheikhziad' },
-  { label: 'Resume', href: '/resume.pdf', value: '2026 — PDF' },
+  // 📚 Resume is hosted externally (Google Drive view-only link) instead
+  // of being checked into /public — keeps phone number / personal email
+  // out of the public repo and git history. Replace the placeholder
+  // below with your actual Drive / Notion / Dropbox share URL.
+  { label: 'Resume', href: 'https://drive.google.com/REPLACE_WITH_YOUR_LINK', value: '2026 — View' },
 ];
 
 export default function Talk() {
