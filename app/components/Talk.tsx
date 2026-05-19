@@ -9,11 +9,17 @@
 //    page from accessing the originating window's `window.opener`.
 // ─────────────────────────────────────────────────────────────
 
+// basePath is set at build time (e.g. "/sheikhziad" for the Pages
+// project URL). Next prefixes its own routing/assets automatically,
+// but NOT raw <a href> strings to public/ files — so we prepend it
+// ourselves for the resume link.
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
+
 const links = [
   { label: 'Email', href: 'mailto:sheikhziadwork@gmail.com', value: 'sheikhziadwork@gmail.com' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/sheikh-ziad-ahmed-b3391319a/', value: 'sheikh-ziad-ahmed' },
   { label: 'GitHub', href: 'https://github.com/sheikhziad', value: 'sheikhziad' },
-  { label: 'Resume', href: '/resume.pdf', value: '2026 — PDF' },
+  { label: 'Resume', href: `${basePath}/resume.pdf`, value: '2026 — PDF' },
 ];
 
 export default function Talk() {
