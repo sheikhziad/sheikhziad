@@ -39,7 +39,7 @@ export default function Home() {
 
       {/* `relative z-10` puts content above the fixed Scene.
           `grain` adds a subtle film-grain overlay for texture. */}
-      <div className="relative z-10 grain">
+      <div className="relative z-10 grain bg-[#05060a]/70">
         <Arrival />
         <Divider />
         <WhatIDo />
